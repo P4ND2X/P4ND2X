@@ -14,8 +14,8 @@
 - ⚡ Fun fact: **I hate Assembly..**
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/969782354782584843) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/p4nd2x) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/users/969782354782584843) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p4nd2x) 
 [![Spotify](https://img.shields.io/badge/Spotify-%228589DA.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/tclol8oyexidwznecczummqg5?si=ad00e778d04f4e66) 
 
 <p align="left">
