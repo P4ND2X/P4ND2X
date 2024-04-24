@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Youssef Muhammed</h1>
-<h3 align="center">A passionate Software/Game developer from 🇪🇬</h3>
+<h3 align="center">A Software/Game developer from 🇪🇬</h3>
 
-# 📊 GitHub Stats:
+## 📊 GitHub stats:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p4nd2x&label=Profile%20views&color=b40eaf&style=plastic" alt="p4nd2x" /> </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=p4nd2x&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=p4nd2x&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 💁 About me:
 - 🌱 I’m currently learning: **Flutter**
 
 - 📫 How to reach me: **p4nd2x@gmail.com**
