@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Yousef Muhammed</h1>
+<h1 align="center">Hi 👋, I'm Youssef Muhammed</h1>
 <h3 align="center">A passionate Software/Game developer from 🇪🇬</h3>
 
+# 📊 GitHub Stats:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p4nd2x&label=Profile%20views&color=b40eaf&style=plastic" alt="p4nd2x" /> </p>
+
+![](https://github-readme-stats.vercel.app/api?username=p4nd2x&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=p4nd2x&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 - 🌱 I’m currently learning: **Flutter**
 
@@ -9,7 +12,11 @@
 
 - ⚡ Fun fact: **I hate Assembly..**
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/969782354782584843) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/p4nd2x) 
+[![Spotify](https://img.shields.io/badge/Spotify-%228589DA.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/tclol8oyexidwznecczummqg5?si=ad00e778d04f4e66) 
+
 <p align="left">
 </p>
 
